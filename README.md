@@ -1,4 +1,6 @@
 Todo List Summary Assisstant 
+Deployed URL:
+(https://todo-summary-assisstant-5732-git-main-harshithsri7s-projects.vercel.app)
 
 Project Overview:
 This is Todolist Summary assisstant that helps users to manage their tasks efficiently by summarizing pending todo tasks with the help of LLM(Large Language Models) and delivering summaries directly to slack channel and as well the application ui. The application consists of a React frontend and  Node.js(express) backend, integrated with Cohere.Ai Api and Slack Api.
@@ -94,6 +96,13 @@ Cohere Setup:
  data.
 * Environment variables are used to protect sensitive keys.* Slack integration allows real-time delivery of task summaries 
 * LLM integration automates natural language summarization of todos.
+
+********************************************
+
+Deployment Architecture and Hosting Overview-
+  
+The application is deployed using a modern full-stack approach: the React-based frontend is hosted on Vercel, leveraging its optimized CDN and seamless integration for fast and reliable user experience.
+Meanwhile, the backend API is deployed on Render, providing a scalable and secure server environment that handles all data processing and interactions. This separation ensures efficient performance, easy maintenance, and smooth scalability for both frontend and backend components.
 
 *******
 Notes 
