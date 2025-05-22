@@ -1,0 +1,21 @@
+.container {
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #4a6fa5;
+}
+
+.summary-section {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.summarize-btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+}
