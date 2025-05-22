@@ -32,7 +32,7 @@ Setup Instructions
 
  Backend Setup
  1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git clone https://github.com/harshithsri7/todo_summary_assisstant.git
 
  2. Navigate to the server folder:
    cd YOUR_REPO/server
