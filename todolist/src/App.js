@@ -180,6 +180,11 @@ function App() {
         onEdit={updateTodo}
         isLoading={isLoading}
       />
+
+      <footer style={{ marginTop: '3rem', textAlign: 'center', color: '#6c757d' }}>
+  built by <a href="https://github.com/harshithsri7" target="_blank" rel="noopener noreferrer">Harshith Sri</a>
+</footer>
+
     </div>
   );
 }
